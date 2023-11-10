@@ -26,7 +26,7 @@ body {
   height: 300px;
   background: radial-gradient(
     circle at center,
-    rgb(8, 8, 0),
+    rgb(211, 211, 13),
     rgba(12, 6, 6, 0.795)
   );
   transform-origin: left bottom;
@@ -40,7 +40,7 @@ body {
   top: 23.5%;
   left: 49%;
   transform-origin: bottom;
-  background-color: aliceblue;
+  background-color: rgb(219, 132, 32);
   border-top: solid 10px red;
 }
 #minute {
